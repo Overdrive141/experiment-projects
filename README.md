@@ -1,23 +1,23 @@
-# next-template
+# experiment-projects
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+A showcase for all my projects &amp; experiments.
 
-## Usage
+## Stack
 
-```bash
-npx create-next-app -e https://github.com/shadcn/next-template
-```
-
-## Features
-
+- Next JS
+- TypeScript
 - Radix UI Primitives
 - Tailwind CSS
-- Fonts with `next/font`
 - Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
-- Automatic import sorting with `@ianvs/prettier-plugin-sort-imports`
 - Tailwind CSS class sorting, merging and linting.
 
-## License
+## Current Projects
 
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+- AI Agents Dashboard
+- Analytics
+
+## Future
+
+- Landing Portfolio
+- Custom Agents & Prompts - Create your own agents or prompts by inserting Python code snippets & start using them
+- Microservices Marketplace - Sell your Microservice as an API (API as a Service)
