@@ -43,7 +43,7 @@ export default function ExperimentsLayout({ children }: ExperimentLayoutProps) {
                   "rounded-[0.5rem]"
                 )}
               >
-                Don't Press Me
+                Don&apos;t Press Me
               </Link>
             </div>
           </div>
